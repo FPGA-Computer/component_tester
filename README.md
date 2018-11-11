@@ -13,9 +13,9 @@ I made a few changes to the hardware for my own use:
 
 - I/O mapping is based on Markus's version with the following exceptions:
 
-*  ATMega328 in TQFP with 2.5V reference at ADC6 and Battery voltage at ADC
+  ATMega328 in TQFP with 2.5V reference at ADC6 and Battery voltage at ADC
 
-*  PC3 - PC5 are unused and are available on connector JP2
+  PC3 - PC5 are unused and are available on connector JP2
 
 
 Project page:
