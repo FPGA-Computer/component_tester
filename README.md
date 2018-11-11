@@ -3,7 +3,7 @@ Component tester
 based on design from svn://mikrocontroller.net/transistortester/
 Github: https://github.com/svn2github/transistortester
 
-I made a few changes to the hardware for my own use
+I made a few changes to the hardware for my own use:
 
 - A boost mode power supply for operating from 1 AA NiMH battery at about 45mA.
   
@@ -15,7 +15,7 @@ I made a few changes to the hardware for my own use
 
 *  ATMega328 in TQFP with 2.5V reference at ADC6 and Battery voltage at ADC
 
-*  7PC3 - PC5 are unused and are available on connector JP2
+*  PC3 - PC5 are unused and are available on connector JP2
 
 
 Project page:
@@ -28,7 +28,7 @@ here for completeiness and I am not maintaining them.
 
 Licensing:
 
-Schematic: Creative Commons 4.0 Attribution 4.0 International
+Schematic: (in Eagle CAD) Creative Commons 4.0 Attribution 4.0 International
 
 PCB & Layout: Creative Commons 4.0 Attribution 4.0 International
 
